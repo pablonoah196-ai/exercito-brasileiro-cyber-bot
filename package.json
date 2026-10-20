@@ -1,1 +1,14 @@
 
+{
+  "name": "exercito-cyber-bot",
+  "version": "1.0.0",
+  "description": "Bot de comandos do Exército Brasileiro Cyber",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3"
+  }
+}
+
